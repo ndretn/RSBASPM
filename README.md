@@ -11,8 +11,7 @@ This project is copyright of Andrea Tonon and it licensed under the Apache Licen
 
 ## Project structure ##
 
-The code for this project has been developed using IntelliJ IDE, JAVA, the Apache Spark Framework and the [SPMF library]
-(http://www.philippe-fournier-viger.com/spmf/).
+The code for this project has been developed using IntelliJ IDE, JAVA, the Apache Spark Framework and the [SPMF library](http://www.philippe-fournier-viger.com/spmf/).
 
 The class MainSPMF and MainSpark provide an usage example, respectively of the sequential and paralled/distributed versions,
 with the MSNBC_SPMF dataset provided in the Data folder.
