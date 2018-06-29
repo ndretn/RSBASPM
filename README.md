@@ -13,13 +13,13 @@ This project is copyright of Andrea Tonon and it licensed under the Apache Licen
 
 The code for this project has been developed using IntelliJ IDE, JAVA, the Apache Spark Framework and the [SPMF library](http://www.philippe-fournier-viger.com/spmf/).
 
-The class MainSPMF and MainSpark provide an usage example, respectively of the sequential and paralled/distributed versions,
+The classes MainSPMF and MainSpark provide an usage example, respectively of the sequential and paralled/distributed versions,
 with the MSNBC_SPMF dataset provided in the Data folder.
 
 Required VM options:
 * -XmxRG: allows to specify the maximum memory allocation pool for a Java virtual machine (JVM), where R must be replaced with
-an integer that represents the maximum memory in GB.
-* -Dspark.master="local\[X\]": only for the Spark version, X must be repleaced with the number of cores of your machine 
+an integer that represents the maximum memory in GB;
+* -Dspark.master="local\[X\]": only for the Spark version, X must be repleaced with the number of cores of your machine. 
 
 ## License
 
