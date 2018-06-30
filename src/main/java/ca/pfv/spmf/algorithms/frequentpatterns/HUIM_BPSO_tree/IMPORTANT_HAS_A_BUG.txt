@@ -1,0 +1,7 @@
+This Java implementation of the algorithm has been temporarily removed from SPMF.
+
+The code is still there however, until the bug is fixed.
+
+Thus, this code should not be used.
+
+Note that this is not the original implementation of the algorithm. The original algorithm was implemented in C++
