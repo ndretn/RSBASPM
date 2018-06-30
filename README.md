@@ -1,7 +1,7 @@
 # RSBASPM: A Rigorous Sampling-Based Approach for Sequential Pattern Mining
 
 This repository contains the code developed for my master's thesis in Computer Engineering at University of Padova,
-supervised by [Professor Fabio Vandin](http://www.dei.unipd.it/~vandinfa/).
+supervised by Professor [Fabio Vandin](http://www.dei.unipd.it/~vandinfa/).
 
 The focus for this work was to find an upper bound on the sample size required for sequential pattern mining, while
 providing rigorous guarantees on the results obtained from the sample with respect to the results that would be 
@@ -13,7 +13,7 @@ This project is copyright of Andrea Tonon and it licensed under the Apache Licen
 
 The code for this project has been developed using IntelliJ IDE, JAVA, the Apache Spark Framework and the [SPMF library](http://www.philippe-fournier-viger.com/spmf/).
 
-The classes MainSPMF and MainSpark provide an usage example, respectively of the sequential and paralled/distributed versions,
+The classes MainSPMF and MainSpark provide an usage example, respectively of the sequential and parallel/distributed versions,
 with the MSNBC_SPMF dataset provided in the Data folder.
 
 Required VM options:
